@@ -1,5 +1,5 @@
 # happysunset
-My theme for zdharma/fast-syntax-highlighting
+My theme for [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting)
 ![Screenshot](https://raw.githubusercontent.com/DumbMahreeo/happysunset/main/screeshots/screenshot.png)
 
 # How to use
